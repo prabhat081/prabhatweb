@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "path":"/1.webp",
+        "title":"UI & UX Design",
+        "desc":"we provide the most effective ui design and ux design .."
+    },
+    {
+        "id":"2",
+        "path":"/2.webp",
+        "title":"Digital Marketing",
+        "desc":"Digital marketing is a way to grab your target audience. Advertise, analyze, and optimize! We do it all for you !"
+    },
+    {
+        "id":"3",
+        "path":"/3.webp",
+        "title":"Mobile App Devlopment",
+        "desc":"We make apps that feel good to use and bring joy to those you’re offering them to"
+    },
+    {
+        "id":"4",
+        "path":"/4.webp",
+        "title":"Web Devlopment",
+        "desc":"Focusing on customers lets us build better website together."
+    },
+    {
+        "id":"5",
+        "path":"/5.webp",
+        "title":"OTT software Devlopment",
+        "desc":"we make highly scalable ott platform for mobile , tv"
+    },
+    {
+        "id":"6",
+        "path":"/6.webp",
+        "title":"Cloud service",
+        "desc":"The most advanced private cloud solution that empowers you to move faster, scale effortlessly and save more"
+    }
+]

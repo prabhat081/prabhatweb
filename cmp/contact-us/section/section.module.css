@@ -1,0 +1,100 @@
+.heading {
+  border-left:4px solid #ECB390;
+  border-radius:2px;
+}
+.heading h3 {
+ font-weight:bold;
+  font-size:40px;
+  font-weight:600;
+  line-height:56px;
+}
+.sub_heading p {
+  font-size:18px;
+  line-height:31.32px;
+  padding-left:25px;
+}
+.contact_form input {
+  width:46.6%;
+  height:56px;
+  font-size:15px;
+  background-color:#F8F8F8;
+  margin:9px;
+  margin-bottom:20px;
+  outline:none;
+  border:none;
+  padding:3px 20px 3px 20px;
+
+}
+.contact_form .con_subject {
+  width:96.5%;
+  height:56px;
+  margin:0;
+  margin-left:10px;
+}
+.con_message {
+  width:96.5%;
+  margin:10px;
+  margin-top:20px;
+  height:150px;
+  padding:15px;
+  font-size:15px;
+  outline:none;
+  border:none;
+  background-color:#F8F8F8;
+}
+.submit_btn {
+  width:175.203px;
+  height:54px;
+  margin-top:5px;
+  margin-left:10px;
+}
+.contact_form input:focus {
+  border:1px solid blue;
+  transition: 1s;
+  border-radius:5px;
+  outline:none;
+  box-shadow:none;
+  color:blue;
+}
+
+@media(max-width:768px){
+  .contact_form input,.con_message,.con_subject{
+    width: 100%;
+  }
+  .contact_form input {
+    width:100%;
+    height:56px;
+    font-size:15px;
+    background-color:#F8F8F8;
+    margin:0px;
+    margin-bottom:20px;
+    outline:none;
+    border:none;
+    padding:3px 20px 3px 20px;
+
+  }
+  .contact_form .con_subject {
+    width:100%;
+    height:56px;
+    margin:0;
+
+  }
+  .con_message {
+    width:100%;
+    margin:0px;
+    margin-top:20px;
+    height:150px;
+    padding:15px;
+    font-size:15px;
+    outline:none;
+    border:none;
+    background-color:#F8F8F8;
+  }
+  .heading h3 {
+   font-weight:bold;
+    font-size:28px;
+    font-weight:600;
+    line-height:40px;
+  }
+
+}

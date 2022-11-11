@@ -1,0 +1,104 @@
+.titleBox {
+    padding-top:140px;
+    padding-left:80px;
+}
+.titlecont {
+    padding-right: 50px;
+}
+
+.titleBox2 {
+    padding-left:80px;
+}
+
+.title,.title2 {
+    font-family: sans-serif;
+    color: #333333;
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.title2 span {
+    color:#086AD8;
+}
+
+.formTitleImg{
+    position: relative;
+    top: 30px;
+    left: -75px;
+}
+.subTitle {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 60px;    
+}
+.formTitleCont {
+    width: 60%; 
+    margin-bottom: 30px;
+}
+
+.formTitle {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+}
+
+.formInput{
+    padding: 15px;
+    background-color: #F8F8F8;
+    border: 1px solid #F8F8F8; 
+    transition: 1s;
+    width: 48%;
+}
+.formInput:focus{
+    border: 1px solid #086AD8; 
+    outline: none;
+    box-shadow: none;
+}
+
+@media(max-width:768px) {
+    .titleBox {
+        padding-top:130px;
+        padding-left:8px;        
+    }
+    .titlecont {
+        padding-right: 10px;
+    }
+    .titleBox2 {
+        padding-left:8px; 
+        padding-right: 8px;       
+    }
+    .title,.title2{
+        font-size: 30px;
+    }
+
+    .subTitle {
+        margin-bottom: 0px;   
+        font-size: 15px;
+        font-weight:400;
+    }
+
+    .formTitleCont {
+        width: 100%; 
+    }
+    .formTitleImg {
+        display: none;
+    }
+    .formTitle {
+        margin-top: 30px;
+        font-size: 20px;
+        font-weight: 400;
+    }
+    .formInput {
+        width: 100%;
+    }
+    .imageBox {
+        position: relative;
+        left:-5px;
+        padding:30px 0;
+        padding-left: 8px;
+    }
+
+}

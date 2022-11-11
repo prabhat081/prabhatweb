@@ -1,0 +1,18 @@
+.mynav {
+    border-bottom: 2px solid white;
+}
+
+.mynav a{
+    color:black !important;
+    font-family: sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+}
+.mynav a:hover{
+    color:#086AD8 !important;
+}
+
+.mynav:hover {
+    color:#086AD8;
+    border-bottom: 2px solid #086AD8;
+}

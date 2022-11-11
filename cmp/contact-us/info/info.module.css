@@ -1,0 +1,15 @@
+.conact_info__list li {
+  list-style:none;
+  line-height:36px;
+  margin-left:-20px;
+}
+.conact_info_list {
+  float:left;
+}
+.con_heading {
+  margin-left:10px;
+  margin-bottom:20px;
+}
+.css_efect:hover {
+  color:#D2A98E;
+}

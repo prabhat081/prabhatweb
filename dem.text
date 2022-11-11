@@ -1,0 +1,31 @@
+{data.map((item) => (
+            <Grid item xs={12} md={4}>
+              <Card>
+                <CardActionArea>
+                  <CardMedia
+                    component="img"
+                    image="/02-featured-video.webp"
+                    alt="green iguana"
+                  />
+                  <CardContent>
+                    <Typography variant="small" component="p" sx={{ py: 2 }}>
+                      By Jhon
+                    </Typography>
+                    <Typography gutterBottom variant="h5" component="div">
+                      {item.title}
+                    </Typography>
+                    <Typography
+                      variant="body2"
+                      color="text.secondary"
+                      sx={{ mb: 2 }}
+                    >
+                      {item.description}
+                    </Typography>
+                    <Typography component="p">
+                      {moment(item.createdAt).format("MM/DD/YYYY")}{" "}
+                    </Typography>
+                  </CardContent>
+                </CardActionArea>
+              </Card>
+            </Grid>
+          ))}

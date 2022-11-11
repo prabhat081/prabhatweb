@@ -1,0 +1,35 @@
+[
+    {
+        "id":"01",
+        "icon":"fa fa-clock-o",
+        "idColor":"#D2A98E",
+        "bgColor":"#FAF6F3",
+        "title":"Identifying the need",
+        "desc":"First, a software development company will strive to understand the importance of the software they’re going to create. What makes it important? What features need to be included? How will this software impact users?"
+    },
+    {
+        "id":"02",
+        "icon":"fa fa-clock-o",
+        "idColor":"#4E8BFB",
+        "bgColor":"#EDF2FE",
+        "title":"Developing the software",
+        "desc":"Next, the company will go ahead and design and develop the software to meet the criteria they identified and the users’ needs. The products they work on may include desktop solutions, mobile applications, and more."
+    },
+    {
+        "id":"03",
+        "icon":"fa fa-laptop",
+        "idColor":"#72A499",
+        "bgColor":"#F0F5F4",
+        "title":"Testing & quality assurance",
+        "desc":"If a software company follows the agile methodology they may make testing and iterations prt of the development process.  once the software company completes development, they will test it to ensure that it functions the way it should and that users will get the desired results."
+    },
+    {
+        "id":"04",
+        "icon":"fa fa-briefcase",
+        "idColor":"#EC525B",
+        "bgColor":"#FFF5F6",
+        "title":"Release and maintenance",
+        "desc":"Finally, the company will release the product. At this stage, the product is ready for users, and organizations can use their custom software. A software development company may also include on-going maintenance or support to ensure the product is always working the way it should."
+    }
+
+]

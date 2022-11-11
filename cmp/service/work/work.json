@@ -1,0 +1,51 @@
+[
+    {
+        "id" : "1",
+        "path" : "/pc.webp",
+        "title" : "UI & UX Design",
+        "icon" : "fa fa-long-arrow-right",
+        "description" :"we provide the monst effective ui design and ux design ."
+    },
+
+    {
+        "id" : "2",
+        "path" : "/pc2.webp",
+        "title" : "Digital Marketing",
+        "icon" : "fa fa-long-arrow-right",
+        "description" :"Digital marketing is a way to grab your target audience. Advertise, analyze."
+    },
+    
+    {
+        "id" : "3",
+        "path" : "/building.webp",
+        "title" : "Mobile App Devlopment",
+        "icon" : "fa fa-long-arrow-right",
+        "description" : "Focusing on customers lets us build better website together."
+    },
+
+    
+    {
+        "id" : "4",
+        "path" : "/intract.webp",
+        "title" : "Web Devlopment",
+        "icon" : "fa fa-long-arrow-right",
+        "description" : "We provide the most responsive and functional IT design for companies and businesses worldwide."
+    },
+
+    
+    {
+        "id" : "5",
+        "path" : "/plan.webp",
+        "title" : "OTT software Devlopment",
+        "icon" : "fa fa-long-arrow-right",
+        "description" : "we make highly scalable ott platform for mobile , tv"
+    },
+    
+    {
+        "id" : "6",
+        "path" : "/firewall.webp",
+        "title" : "Cloud service",
+        "icon" : "fa fa-long-arrow-right",
+        "description" : "The most advanced private cloud solution that empowers you to move faster, scale effortlessly and save more"
+    }
+]

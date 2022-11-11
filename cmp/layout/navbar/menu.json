@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "label":"Home",
+        "url":"/",
+        "dropdown" : false
+    },
+
+    {
+        "id":"2",
+        "label":"Service",
+        "url":"/service",
+        "dropdown" : false
+    },
+
+    {
+        "id":"4",
+        "label":"Contact",
+        "url":"/contact-us",
+        "dropdown" : false
+    }
+]

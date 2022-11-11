@@ -1,0 +1,74 @@
+.con_action {
+  background-image:url("/title.webp");
+  height:272px;
+  margin-bottom:0 !important;
+}
+
+.action_heading {
+  margin-left:70px;
+  font-size:32px;
+}
+
+.get_info_btn i{
+  margin:10px;
+  margin-left:0;
+}
+
+.lets_btn {
+  text-align:center;
+  color:white;
+  width:157px;
+  height:54px;
+}
+
+.lets_btn i{
+  margin:10px;
+  margin-left:0;
+}
+
+.lets_btn:hover{
+  margin-top:-5px;
+  transition: 1s;
+}
+
+.get_info_btn{
+  background-color:#D2A98E;
+  color:white;
+  width: 157px;
+  margin-left: 15px;
+  height: 54px;
+}
+.get_info_btn:hover{
+  background-color:#D2A98E;
+  color:white;
+  margin-top:-5px;
+  transition: 1s;
+}
+@media(max-width:768px)
+{
+
+.action_heading {
+  margin:0;
+  text-align:center;
+  font-size:18px;
+  }
+  .get_info_btn {
+    margin-top:10px;
+    margin-left:-1px;
+  }
+  .lets_btn {
+    color:white;
+    margin-left:0;
+  }
+  .get_info_btn:hover{
+    background-color:#D2A98E;
+    color:white;
+    margin-top:10px;
+    transition: 0s;
+
+  }
+  .lets_btn:hover{
+    margin-top:0;
+    transition: 0s;
+  }
+}
